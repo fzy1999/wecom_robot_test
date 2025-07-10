@@ -10,7 +10,7 @@ import json
 import time
 
 # API基础URL
-BASE_URL = "http://localhost:9090"
+BASE_URL = "http://9.134.214.7:9090"
 
 def test_health():
     """测试健康检查接口"""

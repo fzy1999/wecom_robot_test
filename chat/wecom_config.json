@@ -1,0 +1,15 @@
+{
+  "token": "wfAuAOA6ryuSQTTg3AL36LIDLQ",
+  "encoding_aes_key": "hnyF8JeTtk9Lj84huR5tamVayGNRAGSX8vP4liux4Ga",
+  "server": {
+    "host": "0.0.0.0",
+    "port": 7070,
+    "debug": false
+  },
+  "callback_url": "/wecom/callback",
+  "features": {
+    "enable_image_tips": true,
+    "enable_event_responses": true,
+    "enable_mixed_text_extract": true
+  }
+}
